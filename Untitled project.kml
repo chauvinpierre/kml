@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1CpgccOrL65b-WBSEgaaorz-cI53Dd2k6">
+	<name>Untitled project</name>
+	<gx:CascadingStyle kml:id="__managed_style_5EB5554D9934599A0EF3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_42E030492D34599A0EF3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_38D0EEAFC834599A0EF3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_42E030492D34599A0EF3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5EB5554D9934599A0EF3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0947B44CC434599A0EF2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1839B7760134599A0EF1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0027F0EF4D34599A0EF1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1839B7760134599A0EF1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0947B44CC434599A0EF2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="042A5DF9C83424AD0479">
+		<name>Plot 1</name>
+		<styleUrl>#__managed_style_0027F0EF4D34599A0EF1</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-123.47875,48.45603000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F12C49A7E3424AD61E4">
+		<name>Plot 2</name>
+		<styleUrl>#__managed_style_0027F0EF4D34599A0EF1</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-123.47854,48.45574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D43CB1E33424AD9A4B">
+		<name>Plot 3</name>
+		<styleUrl>#__managed_style_0027F0EF4D34599A0EF1</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-123.47836,48.45534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07743BC6DB3424ADD287">
+		<name>Plot 4</name>
+		<styleUrl>#__managed_style_0027F0EF4D34599A0EF1</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-123.477722,48.456278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AE3E914A03424B1C72A">
+		<name>Private boundary</name>
+		<styleUrl>#__managed_style_38D0EEAFC834599A0EF3</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-123.47777,48.45543,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADCC38CF23424B39C79">
+		<name>Study area</name>
+		<LookAt>
+			<longitude>-123.4791582824496</longitude>
+			<latitude>48.45617035843124</latitude>
+			<altitude>174.4695798782469</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99980012190873</gx:fovy>
+			<range>623.0482663480507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0027F0EF4D34599A0EF1</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-123.4799408015365,48.45619126274256,0 -123.4784207814308,48.45512669948788,0 -123.4766913721899,48.45633699988708,0 -123.4783548295572,48.45715022470742,0 -123.4799408015365,48.45619126274256,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
